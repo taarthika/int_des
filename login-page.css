@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+  /*background: rgb(50, 50, 220);
+  color: #ffffff;*/
+  font-family: monospace;
+}
+
+#head {
+  margin: 10px;
+  display: block;
+}
+
+h2 {
+  /*color: rgb(50, 50, 220);*/
+  text-align: center;
+}
+
+form {
+  margin: auto;
+  /*margin-top: 30px;
+  max-width: 400px;
+  width: 100%;
+  */
+  padding: 40px;
+  /*background: #ffffff;*/
+}
+
+input {
+  display: block;
+  margin: auto;
+  padding: 10px;
+}
+
+input[type=submit] {
+  width: 193px;
+ /* background: rgb(150, 150, 220);*/
+  border: none;
+ /* color: rgb(50, 50, 220);*/
+}
